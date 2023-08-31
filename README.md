@@ -2,6 +2,9 @@
 
 O GitHub Favorites é uma single page application que utiliza a API do GitHub para busca de usuários e exibição de informações sobre eles.  
 
+## Demonstração
+
+![demonstração](https://github.com/Daniel-Rosa1/github-favorites/blob/main/gif/Anima%C3%A7%C3%A3o.gif)
 
 ## Aprendizados
 
