@@ -1,6 +1,6 @@
 # GitHub Favorites
 
-O GitHub Favorites é uma single page application que utiliza a API do GitHub para buscar usuários e exibição de informações sobre eles.  
+O GitHub Favorites é uma single page application que utiliza a API do GitHub para buscar de usuários e exibição de informações sobre eles.  
 
 ## Demonstração
 
@@ -15,4 +15,4 @@ O GitHub Favorites é uma single page application que utiliza a API do GitHub pa
 - Uso de try catch
 - destructuring assignment javascript 
 - spread operator javascript
-- manipulação da DOM através dp javascript
+- manipulação da DOM através do javascript
